@@ -35,8 +35,32 @@
 <li><b>𝙿𝚑𝚊𝚜𝚎𝚛 𝟹</b></li>
 <li><b>Webpack</b></li>
 <li><b>Babel</b></li>
+<br>
+<br></br>
 
+## 💥𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+### 𝙷𝚊𝚞𝚗𝚝𝚎𝚍 𝙷𝚘𝚙𝚙𝚎𝚛
+*𝙰 𝟸-𝙳 𝚑𝚘𝚛𝚛𝚘𝚛 𝚁𝙿𝙶 𝚖𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝙿𝚑𝚊𝚜𝚎𝚛 𝟹*
+<br>
+<li><a href="https://haunted-hopper.herokuapp.com">𝙳𝚎𝚙𝚕𝚘𝚢𝚎𝚍 𝚂𝚒𝚝𝚎</a></li>
+<li><a href="https://github.com/eevee-elites/Capstone">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
+<br></br>
 
+### 𝙿𝚘𝚔𝚎𝚖𝚘𝚗 𝙰𝚗𝚌𝚒𝚎𝚗𝚝 𝙳𝚊𝚠𝚗
+*𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚎-𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎 𝚠𝚎𝚋𝚜𝚒𝚝𝚎*
+<br>
+<li><a href="http://ancient-dawn-87770.herokuapp.com/pokemon">𝙳𝚎𝚙𝚕𝚘𝚢𝚎𝚍 𝚂𝚒𝚝𝚎</a></li>
+<li><a href="https://github.com/Millennium-Falconz/grace-shopper">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
+<br></br>
+
+## ⤴️ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 . . .
+  -  𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜
+  -  𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚂𝚒𝚝𝚎
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 . . . 
+  - 𝚂𝚘𝚌𝚔𝚎𝚝.𝚒𝚘
+  - 𝙳𝚒𝚜𝚌𝚘𝚛𝚍.𝚓𝚜
+  
 
 <!--
 **Dee-bugg/Dee-bugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
