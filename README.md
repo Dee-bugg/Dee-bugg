@@ -1,33 +1,33 @@
-# Hi there, I'm Dee!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎,👋 𝙸'𝚖 𝙳𝚎𝚎!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-**I am currently a full stack engineer specializing in JavaScript and the NERP stack, who is also always looking to explore new technologies.**
+<h6 align="center"><b>𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 𝚝𝚑𝚎 𝙽𝙴𝚁𝙿 𝚜𝚝𝚊𝚌𝚔, 𝚠𝚑𝚘 𝚒𝚜 𝚊𝚕𝚜𝚘 𝚊𝚕𝚠𝚊𝚢𝚜 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛𝚠𝚊𝚛𝚍 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋.</b></h6>
 
-
-#### Here's a little about me 😜
-
-> After graduating with a bachelors in biology I always found myself thinking back to my first computer science course. I was really intrigued how my lines of HTML came together to built a website. My eagerness to further enhance my skills led me to enroll in a Python and Java course at my community college. Those introductory learning experiences to code, further reinforced my desire to become a software engineer.
-So I decided to take the plunge into the wonderous world of software engineering an couldn't love it more! I am now excited to enter the tech world with my new found knowledge and I could not be more thrilled. 
-
-
-
-
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<p>𝙰𝚏𝚝𝚎𝚛 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚊 𝚋𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝚋𝚒𝚘𝚕𝚘𝚐𝚢 𝙸 𝚊𝚕𝚠𝚊𝚢𝚜 𝚏𝚘𝚞𝚗𝚍 𝚖𝚢𝚜𝚎𝚕𝚏 𝚝𝚑𝚒𝚗𝚔𝚒𝚗𝚐 𝚋𝚊𝚌𝚔 𝚝𝚘 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚌𝚘𝚞𝚛𝚜𝚎. 𝙸 𝚠𝚊𝚜 𝚛𝚎𝚊𝚕𝚕𝚢 𝚒𝚗𝚝𝚛𝚒𝚐𝚞𝚎𝚍 𝚋𝚢 𝚑𝚘𝚠 𝚖𝚢 𝚕𝚒𝚗𝚎𝚜 𝚘𝚏 𝙷𝚃𝙼𝙻 𝚌𝚊𝚖𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛 𝚝𝚘 𝚋𝚞𝚒𝚕𝚝 𝚊 𝚠𝚎𝚋𝚜𝚒𝚝𝚎. 
+  
+𝙼𝚢 𝚎𝚊𝚐𝚎𝚛𝚗𝚎𝚜𝚜 𝚝𝚘 𝚏𝚞𝚛𝚝𝚑𝚎𝚛 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚕𝚎𝚍 𝚖𝚎 𝚝𝚘 𝚎𝚗𝚛𝚘𝚕𝚕 𝚒𝚗 𝚊 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊 𝚌𝚘𝚞𝚛𝚜𝚎 𝚊𝚝 𝚖𝚢 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢 𝚌𝚘𝚕𝚕𝚎𝚐𝚎. 𝚃𝚑𝚘𝚜𝚎 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚘𝚛𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚝𝚘 𝚌𝚘𝚍𝚎 𝚏𝚞𝚛𝚝𝚑𝚎𝚛 𝚛𝚎𝚒𝚗𝚏𝚘𝚛𝚌𝚎𝚍 𝚖𝚢 𝚍𝚎𝚜𝚒𝚛𝚎 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛.
+  
+𝚂𝚘 𝙸 𝚍𝚎𝚌𝚒𝚍𝚎𝚍 𝚝𝚘 𝚝𝚊𝚔𝚎 𝚝𝚑𝚎 𝚙𝚕𝚞𝚗𝚐𝚎 𝚒𝚗𝚝𝚘 𝚝𝚑𝚎 𝚠𝚘𝚗𝚍𝚛𝚘𝚞𝚜 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝚌𝚘𝚞𝚕𝚍𝚗'𝚝 𝚕𝚘𝚟𝚎 𝚒𝚝 𝚖𝚘𝚛𝚎! 𝙸 𝚊𝚖 𝚗𝚘𝚠 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚎𝚗𝚝𝚎𝚛 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑 𝚠𝚘𝚛𝚕𝚍 𝚠𝚒𝚝𝚑 𝚖𝚢 𝚗𝚎𝚠𝚏𝚘𝚞𝚗𝚍 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚊𝚗𝚍 𝙸 𝚌𝚘𝚞𝚕𝚍 𝚗𝚘𝚝 𝚋𝚎 𝚖𝚘𝚛𝚎 𝚝𝚑𝚛𝚒𝚕𝚕𝚎𝚍.
+</p>
 
 
-### 🖥️ Languages & Technologies
-* JavaScript
-* React 
-* Redux 
-* Express
-* Node.js
-* PostgreSQL
-* Sequelize
-* Git
-* HTML
-* CSS
-* Python
-* Java
-* Heroku
-* Phaser 3
+
+## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
+* 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝
+* 𝚁𝚎𝚊𝚌𝚝
+* 𝚁𝚎𝚍𝚞𝚡
+* 𝙴𝚡𝚙𝚛𝚎𝚜𝚜
+* 𝙽𝚘𝚍𝚎.𝚓𝚜
+* 𝙿𝚘𝚜𝚝𝚐𝚛𝚎𝚂𝚀𝙻
+* 𝚂𝚎𝚚𝚞𝚎𝚕𝚒𝚣𝚎
+* 𝙶𝚒𝚝
+* 𝙷𝚃𝙼𝙻
+* 𝙲𝚂𝚂
+* 𝙿𝚢𝚝𝚑𝚘𝚗
+* 𝙹𝚊𝚟𝚊
+* 𝙷𝚎𝚛𝚘𝚔𝚞
+* 𝙿𝚑𝚊𝚜𝚎𝚛 𝟹
+
 
 <!--
 **Dee-bugg/Dee-bugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
