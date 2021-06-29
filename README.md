@@ -15,7 +15,7 @@
 
 
 ## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
-<img src="https://codeworkshop.dev/static/8a5b2989e06c0d8376faabd9a879dbf9/2706c/frontendbackend.jpg" width="700" align="right">
+<img src="https://codeworkshop.dev/static/8a5b2989e06c0d8376faabd9a879dbf9/2706c/frontendbackend.jpg" width="680" align="right">
 <li><b>𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝</b></li>
 <li><b>𝚁𝚎𝚊𝚌𝚝</b></li>
 <li><b>𝚁𝚎𝚍𝚞𝚡</b></li>
